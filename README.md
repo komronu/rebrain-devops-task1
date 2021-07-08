@@ -38,20 +38,29 @@ nginx.conf, создал эту репозиторию и сделал обще�
 
 *если хотите скачать с GitLab:*
 
+
 [ssh url GitLab](git@gitlab.rebrainme.com:devops_users_repos/2422/rebrain-devops-task1.git)
+
 
 [https url GitLab](https://gitlab.rebrainme.com/devops_users_repos/2422/rebrain-devops-task1.git)
 
+
 *если хотите скачать с GitHub:*
+
 
 [ssh url GitHub](git@github.com:komronu/rebrain-devops-task1.git)
 
+
 [https url GitHub](https://github.com/komronu/rebrain-devops-task1.git)
+
 
 *если хотите скачать с Bitbucket:*
 
-[ssh url Bitbucket](git clone git@bitbucket.org:komronu/rebrain-devops-task1.git)
 
-[https url Bitbucket](git clone https://komronu@bitbucket.org/komronu/rebrain-devops-task1.git)
+git clone git@bitbucket.org:komronu/rebrain-devops-task1.git
+
+
+git clone https://komronu@bitbucket.org/komronu/rebrain-devops-task1.git
+
 
 
